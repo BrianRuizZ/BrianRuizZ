@@ -1,4 +1,4 @@
-¡Hola! 👋 Soy Brian Ezequiel Ruiz.
+### ¡Hola! 👋 Soy Brian Ezequiel Ruiz.
 
 - 💻 Programador junior enfocado en Delphi y .NET (WinForms)
 - 🚀 Actualmente aprendiendo C#
